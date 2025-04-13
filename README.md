@@ -1,6 +1,6 @@
-Всем привет
-Меня зовут Сева
-Я учусь программированию на Python
+#Всем привет
+##Меня зовут Сева
+##Я учусь программированию на Python
 <!--
 **August66-a/August66-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
